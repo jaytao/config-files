@@ -14,3 +14,4 @@ highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
 set visualbell
 set t_vb=
+set cursorline
